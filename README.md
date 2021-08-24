@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
 
 ## Development server
-You must run the node server in order for this to work : ## Node-JSON-Web-token-auth.
+You must run the node server in order for this to work -> repository: Node-JSON-Web-token-auth.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
